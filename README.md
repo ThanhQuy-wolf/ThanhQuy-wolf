@@ -94,10 +94,6 @@
 <br />
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhQuy-wolf&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhQuy-wolf&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
