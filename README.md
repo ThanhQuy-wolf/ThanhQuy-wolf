@@ -87,11 +87,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThanhQuy-wolf&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhQuy-wolf&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
-
-<br />
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhQuy-wolf&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
