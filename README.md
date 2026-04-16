@@ -104,7 +104,7 @@
 <br />
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ThanhQuy_wolf&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+  <img src="https://streak-stats.demolab.com?user=ThanhQuy-wolf&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
 </a>
 
 </div>
